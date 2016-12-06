@@ -1,0 +1,45 @@
+{
+  "name": "color-namer",
+  "version": "1.1.0",
+  "description": "Give me a color and I'll name it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "browserify index.js --standalone colorNamer > dist/color-namer.js"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "names",
+    "rgb",
+    "hsl",
+    "hsv",
+    "lab",
+    "search",
+    "tagging",
+    "image",
+    "design"
+  ],
+  "author": {
+    "name": "Zeke Sikelianos",
+    "email": "zeke@sikelianos.com",
+    "url": "http://zeke.sikelianos.com/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^4.2.1",
+    "mocha": "~1.13.0"
+  },
+  "dependencies": {
+    "chroma-js": "~0.5.2",
+    "euclidean-distance": "~0.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/zeke/color-namer/issues"
+  },
+  "homepage": "https://github.com/zeke/color-namer",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zeke/color-namer.git"
+  }
+}
