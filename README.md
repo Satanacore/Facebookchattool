@@ -5,3 +5,4 @@ cd to the location of this download Example: cd C:\Users\Satan\Downloads\Faceboo
 When it changes directory to this folder:
 Npm install
 After this, run the start.bat
+For those of you too lazy to do the above, simply run the install.bat
