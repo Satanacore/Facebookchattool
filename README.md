@@ -1,8 +1,3 @@
 # Facebookchattool
-This uses Node.js and NPM, for those of you who do not know how to use node.js:
-use command prompt:
-cd to the location of this download Example: cd C:\Users\Satan\Downloads\Facebookchattool
-When it changes directory to this folder:
-Npm install
-After this, run the start.bat
-For those of you too lazy to do the above, simply run the install.bat
+Download it from here:
+https://mega.nz/#!v05iWYAa!A4lISd1J2OnTmYSed-0NP6J6jj0T9ZQX-v-iUX2UrPU
